@@ -1,0 +1,21 @@
+🛠️ Technical Specifications
+Note: This project adheres to a zero-dependency philosophy. No external packages are required.
+
+socket: Core networking for TCP connections.
+
+threading: Parallel processing for high-speed scanning.
+
+datetime: Precise logging and performance metrics.
+
+sys/os: System-level operations.
+
+Compatibility: Python 3.11+ 🐍
+
+🙏 Acknowledgements
+Thanks to the open-source community for providing great networking resources.
+
+Inspired by professional security reconnaissance tools.
+
+Thank you for checking out this project! If you like it, feel free to leave a ⭐.
+
+Developed with passion by CryzZ1
